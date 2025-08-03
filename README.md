@@ -1,6 +1,6 @@
-# AmberCapital
+# Website with PHP
 
-AmberCapital is a web application built with [CodeIgniter 4](https://codeigniter.com/) PHP framework.
+This application built with [CodeIgniter 4](https://codeigniter.com/) PHP framework.
 
 ## Project Structure
 
