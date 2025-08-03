@@ -1,4 +1,4 @@
-# Website with PHP
+# Website using PHP
 
 This application built with [CodeIgniter 4](https://codeigniter.com/) PHP framework.
 
