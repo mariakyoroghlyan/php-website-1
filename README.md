@@ -1,6 +1,6 @@
 # Website using PHP
 
-This application built with [CodeIgniter 4](https://codeigniter.com/) PHP framework.
+This financial application is developed using the CodeIgniter 4 PHP framework. It includes both the frontend and backend, along with a dedicated admin panel for managing the system.
 
 ## Project Structure
 
